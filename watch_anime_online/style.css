@@ -1,0 +1,34 @@
+.header {
+    background: #424242;
+}
+.menu a {
+    padding: 5px 5px;
+    text-decoration: none;
+    color: white;
+}
+.menu li{
+    display: inline-block;
+    list-style-type: none;
+    padding: 5px 5px;
+    margin: 10px 10px;
+    font-weight: bold;
+}
+.menu li:hover {
+    color: black;
+    background: white;
+    border: 1px none;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.menu a:hover {
+    color: black;
+}
+.menu ul {
+    margin: 0px;
+}
+.btn {
+    background: white;
+}
+.input-group {
+
+}
